@@ -24,7 +24,7 @@ Special care was taken to ensure the analysis remains **stable and accurate unde
 
 > **Customer segmentation is percentile-based and independent of sort order, ensuring consistent results under dynamic filtering and reporting.**
 
-This approach reflects **professional-grade modeling practices** commonly used in business intelligence and analytics workflows.
+This prevents tier distortion when users apply filters or re-sort tables during analysis.
 
 ---
 
