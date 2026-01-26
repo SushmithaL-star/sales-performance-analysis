@@ -1,4 +1,12 @@
 #  Sales Performance Analysis (Excel)
+Excel sales analysis project exploring revenue trends, customer value tiers,
+and product performance using automated summaries and dashboards.
+
+## At a Glance
+- Headphones generate the highest revenue despite lower sales volume.
+- East region contributes the lowest revenue share.
+- Q4 2024 revenue declined as December sales were limited to Headphones.
+- Top 3 products account for over 60% of total revenue, with 2 being accessories.
 
 ## Project Overview
 This project analyzes **sales performance data** using Microsoft Excel to uncover trends, evaluate segment performance, and produce business-ready insights.
@@ -32,7 +40,7 @@ This prevents tier distortion when users apply filters or re-sort tables during 
 ## Visual Preview
 
 ### Customer Segmentation & Ranking
-![Customer Segmentation](screenshots/customer_ranking.png)
+![customer ranking](screenshots/customer_ranking.png)
 
 Customers are ranked by total revenue contribution and segmented into value tiers using percentile-based thresholds.  
 Segmentation is independent of sort order, ensuring consistent results under dynamic filtering and reporting.
@@ -40,7 +48,7 @@ Segmentation is independent of sort order, ensuring consistent results under dyn
 ---
 
 ### Revenue Trends (2023 vs 2024)
-![Revenue Trends](screenshots/revenue_by_month.png)
+![revenue trends](screenshots/revenue_trends.png)
 
 Monthly revenue comparison across two years highlights seasonality, category performance shifts, and Q4 decline patterns.
 
@@ -52,7 +60,7 @@ Interactive slicers allow filtering by:
 ---
 
 ### Key Business Insights
-![Key Insights](screenshots/key_insights.png)
+![key insights](screenshots/key_insights.png)
 
 ---
 
