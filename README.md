@@ -40,7 +40,7 @@ This prevents tier distortion when users apply filters or re-sort tables during 
 ## Visual Preview
 
 ### Customer Segmentation & Ranking
-![customer ranking](screenshots/customer_ranking.png)
+![Customer Ranking](screenshots/customer_ranking.PNG)
 
 Customers are ranked by total revenue contribution and segmented into value tiers using percentile-based thresholds.  
 Segmentation is independent of sort order, ensuring consistent results under dynamic filtering and reporting.
@@ -48,7 +48,7 @@ Segmentation is independent of sort order, ensuring consistent results under dyn
 ---
 
 ### Revenue Trends (2023 vs 2024)
-![revenue trends](screenshots/revenue_trends.png)
+![Revenue Trends](screenshots/revenue_trends.PNG)
 
 Monthly revenue comparison across two years highlights seasonality, category performance shifts, and Q4 decline patterns.
 
@@ -60,7 +60,7 @@ Interactive slicers allow filtering by:
 ---
 
 ### Key Business Insights
-![key insights](screenshots/key_insights.png)
+![Key Insights](screenshots/key_insights.PNG)
 
 ---
 
