@@ -22,6 +22,7 @@ Special care was taken to ensure the analysis remains **stable and accurate unde
 - Segment assignment remains consistent even when data is sorted or filtered  
 - Prevents category drift caused by visual or report-level changes  
 
+## Modeling Decisions
 > **Customer segmentation is percentile-based and independent of sort order, ensuring consistent results under dynamic filtering and reporting.**
 
 This prevents tier distortion when users apply filters or re-sort tables during analysis.
