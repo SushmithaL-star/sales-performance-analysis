@@ -29,26 +29,30 @@ This prevents tier distortion when users apply filters or re-sort tables during 
 
 ---
 
-## 📊 Visual Preview
+## Visual Preview
 
-### Sales Overview
-![Sales Overview](screenshots/sales_overview.PNG)
+### Customer Segmentation & Ranking
+![Customer Segmentation](screenshots/customer_ranking.png)
 
-High-level summary of sales performance and distribution.
-
----
-
-### Segment Performance
-![Segment Performance](screenshots/category_performance.PNG)
-
-Comparison of segments built on percentile logic rather than manual thresholds.
+Customers are ranked by total revenue contribution and segmented into value tiers using percentile-based thresholds.  
+Segmentation is independent of sort order, ensuring consistent results under dynamic filtering and reporting.
 
 ---
 
-### Trend Analysis
-![Sales Trends](screenshots/sales_trends.PNG)
+### Revenue Trends (2023 vs 2024)
+![Revenue Trends](screenshots/revenue_by_month.png)
 
-Time-based patterns used to assess performance movement and stability.
+Monthly revenue comparison across two years highlights seasonality, category performance shifts, and Q4 decline patterns.
+
+Interactive slicers allow filtering by:
+- Product category
+- Year
+- Date range
+
+---
+
+### Key Business Insights
+![Key Insights](screenshots/key_insights.png)
 
 ---
 
